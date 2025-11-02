@@ -1,5 +1,6 @@
 # Environment
 .env
+stack.env
 
 # Python
 __pycache__/
